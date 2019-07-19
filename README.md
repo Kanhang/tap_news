@@ -1,8 +1,6 @@
 # Tap-News
 A News Scraping and Recommendation System using React, Node.js, MongoDB, and TensorFlow.
-
-If you like this project. Please give it a star. If you have any interesting idea about further development, just let me know!
-
+demo : http://104.238.131.122:3001/
 # Run the job: 
 #!/bin/bash <br/>
 fuser -k 3000/tcp <br/>
