@@ -1,0 +1,62 @@
+127.0.0.1 - - [15/Jul/2019 22:11:30] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jul/2019 22:11:38] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jul/2019 22:11:38] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jul/2019 22:11:39] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jul/2019 22:11:39] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jul/2019 22:11:40] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jul/2019 22:11:40] "POST / HTTP/1.1" 200 -
+Starting HTTP server on localhost4040
+connected
+Preference list: [u'World', u'Religion', u'Politics & Government', u'Entertainment', u'Media', u'Advertisements', u'Sports', u'Colleges & Schools', u'Magazine', u'Weather', u'Traffic', u'Regional News', u'Economic & Corp', u'Crime', u'Other', u'Environmental', u'Technology']
+[u'mCV9HId2F4+edDc1s0e1iQ==\n', u'IsVsKDeeFEqY94O58HuZCQ==\n', u'QGXTO9ZimI+3WSf8hhR5zw==\n', u'J8mWoiE74kFarEUSBF/KJA==\n', u'tccIrMDpqazqmDQ3y/Q84w==\n', u'GgBspjr2ZIRY7+I+7PjBcg==\n', u'VZkDDjx8v33domwLuxfMxw==\n', u'MlnQeUpKBmrbKXt73s/gKA==\n', u'08C9nlsriZX+gRVdTBdMRg==\n', u'w56ZkyRBOQkNh3P6gyvd9Q==\n']
+connected
+Preference list: [u'World', u'Religion', u'Politics & Government', u'Entertainment', u'Media', u'Advertisements', u'Sports', u'Colleges & Schools', u'Magazine', u'Weather', u'Traffic', u'Regional News', u'Economic & Corp', u'Crime', u'Other', u'Environmental', u'Technology']
+[u'mCV9HId2F4+edDc1s0e1iQ==\n', u'IsVsKDeeFEqY94O58HuZCQ==\n', u'QGXTO9ZimI+3WSf8hhR5zw==\n', u'J8mWoiE74kFarEUSBF/KJA==\n', u'tccIrMDpqazqmDQ3y/Q84w==\n', u'GgBspjr2ZIRY7+I+7PjBcg==\n', u'VZkDDjx8v33domwLuxfMxw==\n', u'MlnQeUpKBmrbKXt73s/gKA==\n', u'08C9nlsriZX+gRVdTBdMRg==\n', u'w56ZkyRBOQkNh3P6gyvd9Q==\n']
+connected
+Preference list: [u'World', u'Religion', u'Politics & Government', u'Entertainment', u'Media', u'Advertisements', u'Sports', u'Colleges & Schools', u'Magazine', u'Weather', u'Traffic', u'Regional News', u'Economic & Corp', u'Crime', u'Other', u'Environmental', u'Technology']
+[u'mCV9HId2F4+edDc1s0e1iQ==\n', u'IsVsKDeeFEqY94O58HuZCQ==\n', u'QGXTO9ZimI+3WSf8hhR5zw==\n', u'J8mWoiE74kFarEUSBF/KJA==\n', u'tccIrMDpqazqmDQ3y/Q84w==\n', u'GgBspjr2ZIRY7+I+7PjBcg==\n', u'VZkDDjx8v33domwLuxfMxw==\n', u'MlnQeUpKBmrbKXt73s/gKA==\n', u'08C9nlsriZX+gRVdTBdMRg==\n', u'w56ZkyRBOQkNh3P6gyvd9Q==\n']
+connected
+Preference list: [u'World', u'Religion', u'Politics & Government', u'Entertainment', u'Media', u'Advertisements', u'Sports', u'Colleges & Schools', u'Magazine', u'Weather', u'Traffic', u'Regional News', u'Economic & Corp', u'Crime', u'Other', u'Environmental', u'Technology']
+[u'mCV9HId2F4+edDc1s0e1iQ==\n', u'IsVsKDeeFEqY94O58HuZCQ==\n', u'QGXTO9ZimI+3WSf8hhR5zw==\n', u'J8mWoiE74kFarEUSBF/KJA==\n', u'tccIrMDpqazqmDQ3y/Q84w==\n', u'GgBspjr2ZIRY7+I+7PjBcg==\n', u'VZkDDjx8v33domwLuxfMxw==\n', u'MlnQeUpKBmrbKXt73s/gKA==\n', u'08C9nlsriZX+gRVdTBdMRg==\n', u'w56ZkyRBOQkNh3P6gyvd9Q==\n']
+connected
+Preference list: [u'World', u'Religion', u'Politics & Government', u'Entertainment', u'Media', u'Advertisements', u'Sports', u'Colleges & Schools', u'Magazine', u'Weather', u'Traffic', u'Regional News', u'Economic & Corp', u'Crime', u'Other', u'Environmental', u'Technology']
+[u'mCV9HId2F4+edDc1s0e1iQ==\n', u'IsVsKDeeFEqY94O58HuZCQ==\n', u'QGXTO9ZimI+3WSf8hhR5zw==\n', u'J8mWoiE74kFarEUSBF/KJA==\n', u'tccIrMDpqazqmDQ3y/Q84w==\n', u'GgBspjr2ZIRY7+I+7PjBcg==\n', u'VZkDDjx8v33domwLuxfMxw==\n', u'MlnQeUpKBmrbKXt73s/gKA==\n', u'08C9nlsriZX+gRVdTBdMRg==\n', u'w56ZkyRBOQkNh3P6gyvd9Q==\n']
+connected
+Preference list: [u'World', u'Religion', u'Politics & Government', u'Entertainment', u'Media', u'Advertisements', u'Sports', u'Colleges & Schools', u'Magazine', u'Weather', u'Traffic', u'Regional News', u'Economic & Corp', u'Crime', u'Other', u'Environmental', u'Technology']
+[u'mCV9HId2F4+edDc1s0e1iQ==\n', u'IsVsKDeeFEqY94O58HuZCQ==\n', u'QGXTO9ZimI+3WSf8hhR5zw==\n', u'J8mWoiE74kFarEUSBF/KJA==\n', u'tccIrMDpqazqmDQ3y/Q84w==\n', u'GgBspjr2ZIRY7+I+7PjBcg==\n', u'VZkDDjx8v33domwLuxfMxw==\n', u'MlnQeUpKBmrbKXt73s/gKA==\n', u'08C9nlsriZX+gRVdTBdMRg==\n', u'w56ZkyRBOQkNh3P6gyvd9Q==\n']
+connected
+Preference list: [u'World', u'Religion', u'Politics & Government', u'Entertainment', u'Media', u'Advertisements', u'Sports', u'Colleges & Schools', u'Magazine', u'Weather', u'Traffic', u'Regional News', u'Economic & Corp', u'Crime', u'Other', u'Environmental', u'Technology']
+[u'mCV9HId2F4+edDc1s0e1iQ==\n', u'IsVsKDeeFEqY94O58HuZCQ==\n', u'QGXTO9ZimI+3WSf8hhR5zw==\n', u'J8mWoiE74kFarEUSBF/KJA==\n', u'tccIrMDpqazqmDQ3y/Q84w==\n', u'GgBspjr2ZIRY7+I+7PjBcg==\n', u'V127.0.0.1 - - [15/Jul/2019 22:11:40] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jul/2019 22:11:42] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jul/2019 22:11:49] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jul/2019 22:11:54] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jul/2019 22:12:00] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jul/2019 22:12:10] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jul/2019 22:12:15] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [19/Jul/2019 05:29:53] "POST / HTTP/1.1" 200 -
+ZkDDjx8v33domwLuxfMxw==\n', u'MlnQeUpKBmrbKXt73s/gKA==\n', u'08C9nlsriZX+gRVdTBdMRg==\n', u'w56ZkyRBOQkNh3P6gyvd9Q==\n']
+connected
+Preference list: [u'World', u'Religion', u'Politics & Government', u'Entertainment', u'Media', u'Advertisements', u'Sports', u'Colleges & Schools', u'Magazine', u'Weather', u'Traffic', u'Regional News', u'Economic & Corp', u'Crime', u'Other', u'Environmental', u'Technology']
+rpc method log news click
+connected
+message: {'newsId': u'w56ZkyRBOQkNh3P6gyvd9Q==\n', 'timestamp': '2019-07-15 22:11:42.333802', 'userId': u'123@123.com'}
+[x] Sent message to tap-news-log-clicks-task-queue {'newsId': u'w56ZkyRBOQkNh3P6gyvd9Q==\n', 'timestamp': '2019-07-15 22:11:42.333802', 'userId': u'123@123.com'}
+[u'mCV9HId2F4+edDc1s0e1iQ==\n', u'IsVsKDeeFEqY94O58HuZCQ==\n', u'QGXTO9ZimI+3WSf8hhR5zw==\n', u'J8mWoiE74kFarEUSBF/KJA==\n', u'tccIrMDpqazqmDQ3y/Q84w==\n', u'GgBspjr2ZIRY7+I+7PjBcg==\n', u'VZkDDjx8v33domwLuxfMxw==\n', u'MlnQeUpKBmrbKXt73s/gKA==\n', u'08C9nlsriZX+gRVdTBdMRg==\n', u'w56ZkyRBOQkNh3P6gyvd9Q==\n']
+connected
+Preference list: [u'World', u'Sports', u'Politics & Government', u'Entertainment', u'Media', u'Colleges & Schools', u'Advertisements', u'Religion', u'Magazine', u'Weather', u'Traffic', u'Regional News', u'Economic & Corp', u'Crime', u'Other', u'Environmental', u'Technology']
+[u'5gHOF23rBQQjV/Yuv1Rl7w==\n', u'q6RQ92TxOCVCSZYaAND7Rw==\n', u'+7ZiljTTSN3Gt2SupSSUqg==\n', u'udBj9WxZALpR53hM9ZYXiQ==\n', u'Z48MGo+MLZV59FlMey9FLg==\n', u'2oGRLXl8BUGcr7eZvO5I4w==\n', u'8J1P7XCdY/VgNwsaBw4WzA==\n', u'fLyerHoDNfWb+5gqb8XplA==\n', u'aWr71k9pJSILkkDYTDyViw==\n', u'LOFdNkmV1rVvubMA8deMyg==\n']
+connected
+Preference list: [u'World', u'Sports', u'Politics & Government', u'Entertainment', u'Media', u'Colleges & Schools', u'Advertisements', u'Religion', u'Magazine', u'Weather', u'Traffic', u'Regional News', u'Economic & Corp', u'Crime', u'Other', u'Environmental', u'Technology']
+[u'o4uMeyzZf0TUdcVPfEkTJw==\n', u'TL01Vk6kPuz9vCdRCkNhQw==\n', u'/7o29buna1wX83DxTY8oSw==\n', u'D6x0gHvqqBG8uO7PQa+nrQ==\n', u'OFXPmWbQOl5X4G3WUeyBIw==\n', u'BIyWjmG5H5ggiRyqFA57KQ==\n', u'F4r/K5mFi/P0kZEvHw0PaQ==\n', u'yEykaVnqz5SfFrn5m4G1Vg==\n', u'b5XBchyuuLcma4XvO8U+bQ==\n', u'nj4XrJu1Z1MdV5dvgUVHhA==\n']
+connected
+Preference list: [u'World', u'Sports', u'Politics & Government', u'Entertainment', u'Media', u'Colleges & Schools', u'Advertisements', u'Religion', u'Magazine', u'Weather', u'Traffic', u'Regional News', u'Economic & Corp', u'Crime', u'Other', u'Environmental', u'Technology']
+[u'Ru+6PmKc1SRFEvbV5JToUQ==\n', u'Qvy5XmtgCKxxq+oPagQrkw==\n', u'+P8+rjjLKoNqB7TO6UkpNA==\n', u'OJWGTHp8BOVDqyJFTHhhgA==\n', u'OvCC4oG19lV4Re1vmHuEPw==\n', u'vxivl2aTmcyz30JYbU/ZXQ==\n', u'6GBQRqXdAZ1l7yfiMQq0EA==\n', u'N+jWaS5us1XGlyNFwEb1zw==\n', u'yFy3zXKzSEEewohaXwM70w==\n', u'JTa6r1aSHKMqdFMx1A8k3A==\n']
+connected
+Preference list: [u'World', u'Sports', u'Politics & Government', u'Entertainment', u'Media', u'Colleges & Schools', u'Advertisements', u'Religion', u'Magazine', u'Weather', u'Traffic', u'Regional News', u'Economic & Corp', u'Crime', u'Other', u'Environmental', u'Technology']
+[u'paXr11ptymSsjVeKqjrrmA==\n', u'25zbr45CYYhMPYIrXJCKZQ==\n', u'HxtLORQY+mn6zUx/pStuIQ==\n', u'hesiEgX+BU2hoWBtLNmEJQ==\n', u'x68lcKv/Uta6IY2eTdh7uA==\n', u'q8FBWUZKXAZcysuxyaBNyA==\n', u'TC9fUp8VVpL0FRFGib+Uvw==\n', u'swm0f6rhmSF/lNcNEAbDTQ==\n', u'Gc3TXsNnGABMwoqinBPytQ==\n', u'BXT9i006/QjxNAxGTxdsbA==\n']
+connected
+Preference list: [u'World', u'Sports', u'Politics & Government', u'Entertainment', u'Media', u'Colleges & Schools', u'Advertisements', u'Religion', u'Magazine', u'Weather', u'Traffic', u'Regional News', u'Economic & Corp', u'Crime', u'Other', u'Environmental', u'Technology']
+connected
+Preference list: [u'World', u'Sports', u'Politics & Government', u'Entertainment', u'Media', u'Colleges & Schools', u'Advertisements', u'Religion', u'Magazine', u'Weather', u'Traffic', u'Regional News', u'Economic & Corp', u'Crime', u'Other', u'Environmental', u'Technology']
+connected
+Preference list: [u'World', u'Sports', u'Politics & Government', u'Entertainment', u'Media127.0.0.1 - - [19/Jul/2019 05:32:54] "POST / HTTP/1.1" 200 -
